@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "BASKETS: SEASON 4",
+      "complete": false
+    },
+    {
+      "id": "2",
+      "title": "IZOMBIE: SEASON 5",
+      "complete": true
+    },
+    {
+      "id": "3",
+      "title": "In the dark",
+      "complete": false
+    }
+  ]
+}
